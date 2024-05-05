@@ -13,6 +13,9 @@ Quick answer is not yet but we are very close.
 
 ## Remarks
 
+These are the slides for
+[PICS](https://sites.google.com/view/picseminar/).
+
 The `.epa` file belongs to [Endless Paper](https://endlesspaper.app).
 Search [infinite zoom](https://www.youtube.com/results?search_query=infinite+zoom)
 on YouTube for demo.
