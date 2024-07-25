@@ -1,5 +1,8 @@
 # The Unified Approach for Group Testing, Heavy Hitter, Compressed Sensing, and Multiple Access Channel
  
+These are the slides for
+[PIC Seminar](https://sites.google.com/view/picseminar/).
+
 ## Abstract
 
 The goal of this talk is not to discuss any particular problem or any
@@ -13,14 +16,24 @@ Quick answer is not yet but we are very close.
 
 ## Remarks
 
-These are the slides for
-[PICS](https://sites.google.com/view/picseminar/).
-
 The `.epa` file belongs to [Endless Paper](https://endlesspaper.app).
 Search [infinite zoom](https://www.youtube.com/results?search_query=infinite+zoom)
-on YouTube for demo.
+on Youtube for demo.
 
-See also [GenoWeave](https://github.com/Symbol1/GenoWeave/).
+See also
+* [SpeakTensor](https://github.com/Symbol1/SpeakTensor)
+* [GenoWeave](https://github.com/Symbol1/GenoWeave)
+
+This style of presentation is inspired by
+* [Universe Size Comparison | Cosmic Eye](https://www.youtube.com/watch?v=8Are9dDbW24) by Scientificus
+* [The Scale of the Universe](https://www.youtube.com/watch?v=uaGEjrADGPA) by carykh
+
+More recent works
+* [Metric Paper](https://www.youtube.com/watch?v=pUF5esTscZI) by CGP Grey
+* [You Are The Center of The Universe (Literally)](https://www.youtube.com/watch?v=Z_1Q0XB4X0Y) by Kurzgesagt
+* Search: [video game maps size comparison](https://www.youtube.com/results?search_query=video+game+maps+size+comparison)
+* Channel: [Alex Evett](https://www.youtube.com/@AlexEvett55/videos)
+
 
 ## Screenshots
 
